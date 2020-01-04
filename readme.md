@@ -1,6 +1,6 @@
 # Haxor Video
 
-This repository was created by Ian Jennings with [Haxor](https://haxor-web-staging.herokuapp.com/replay/6b864994-c750-48e8-95a8-22be7cc24967).
+This repository was created by Ian Jennings with [Haxor](https://app.haxor.sh/replay/6b864994-c750-48e8-95a8-22be7cc24967).
 
 <a href="https://haxor-web-staging.herokuapp.com/replay/6b864994-c750-48e8-95a8-22be7cc24967"><img src="https://haxor-web-staging.herokuapp.com/replay/6b864994-c750-48e8-95a8-22be7cc24967/screenshot" alt="Screenshot of Haxor Recording" width="400" /></a> 
 
